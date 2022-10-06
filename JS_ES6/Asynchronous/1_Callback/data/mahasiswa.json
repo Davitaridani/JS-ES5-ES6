@@ -1,0 +1,31 @@
+[
+    {
+    "nama": "Ahmat Davit Ari Deni",
+    "NIM": "E331191309",
+    "alamat": "Balung",
+    "jurusan": "Manajemen Informatika",
+    "idDosenWali": 1
+
+}, {
+    "nama": "Dimas Saputra",
+    "NIM": "E331999",
+    "alamat": "Panti",
+    "jurusan": "Agirbisni",
+    "idDosenWali": 2
+
+}, {
+    "nama": "Sinta Permatasi",
+    "NIM": "E33422282",
+    "alamat": "Malang",
+    "jurusan": "Sistem Informasi",
+    "idDosenWali": 3
+
+}, {
+    "nama": "Dinta Azani",
+    "NIM": "E33134242",
+    "alamat": "Lumajang",
+    "jurusan": "Manajemen",
+    "idDosenWali": 4
+
+}
+]
