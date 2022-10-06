@@ -1,0 +1,37 @@
+[
+  {
+    "nama": "P. Saipul",
+    "nrp": "1233223247",
+    "nagajar": "MIF",
+    "alamat": "Lumajang",
+    "umur": "45"
+  },
+  {
+    "nama": "P. Faisal",
+    "nrp": "326478238",
+    "nagajar": "TIF",
+    "alamat": "Jember",
+    "umur": "34"
+  },
+  {
+    "nama": "P.Slamet",
+    "nrp": "6347289",
+    "nagajar": "TKK",
+    "alamat": "Bondowoso",
+    "umur": "22"
+  },
+  {
+    "nama": "P.Gilang",
+    "nrp": "34t6274io",
+    "nagajar": "TKK",
+    "alamat": "Jombang",
+    "umur": "53"
+  },
+  {
+    "nama": "P.Saputra",
+    "nrp": "231t678",
+    "nagajar": "MIF",
+    "alamat": "Jember",
+    "umur": "22"
+  }
+]

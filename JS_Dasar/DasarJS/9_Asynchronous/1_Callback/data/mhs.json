@@ -1,0 +1,37 @@
+[
+  {
+    "nama": "Ahmat Davit Ari Dani",
+    "nim": "E311819389",
+    "Jurusan": "MIF",
+    "alamat": "Jember",
+    "umur": "22"
+  },
+  {
+    "nama": "Dimas Ainur",
+    "nim": "E334493482",
+    "Jurusan": "TIF",
+    "alamat": "Lumajang",
+    "umur": "21"
+  },
+  {
+    "nama": "Royyan Vananai",
+    "nim": "E31181y646",
+    "Jurusan": "TKK",
+    "alamat": "Jakarta",
+    "umur": "22"
+  },
+  {
+    "nama": "Gilang Pmabudi",
+    "nim": "E313742834",
+    "Jurusan": " TKK",
+    "alamat": "Jombang",
+    "umur": "25"
+  },
+  {
+    "nama": "Dana Saputra",
+    "nim": "E3133425",
+    "Jurusan": "MIF",
+    "alamat": "Jember",
+    "umur": "22"
+  }
+]
